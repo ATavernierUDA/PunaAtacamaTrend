@@ -1,0 +1,19 @@
+Research Areas	Record Count	% of 54
+Geology	17	31.481
+Environmental Sciences Ecology	14	25.926
+Geochemistry Geophysics	14	25.926
+Microbiology	9	16.667
+Science Technology Other Topics	7	12.963
+Astronomy Astrophysics	3	5.556
+Life Sciences Biomedicine Other Topics	3	5.556
+Biotechnology Applied Microbiology	2	3.704
+Marine Freshwater Biology	2	3.704
+Physical Geography	2	3.704
+Anthropology	1	1.852
+Biochemistry Molecular Biology	1	1.852
+Biophysics	1	1.852
+Cell Biology	1	1.852
+Engineering	1	1.852
+Physics	1	1.852
+Research Experimental Medicine	1	1.852
+Robotics	1	1.852

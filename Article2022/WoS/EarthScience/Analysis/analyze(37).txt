@@ -1,0 +1,27 @@
+Research Areas	Record Count	% of 3,419
+Geology	1047	30.623
+Environmental Sciences Ecology	468	13.688
+Geochemistry Geophysics	444	12.986
+Physical Geography	263	7.692
+Zoology	235	6.873
+Plant Sciences	190	5.557
+Archaeology	177	5.177
+Anthropology	167	4.884
+Meteorology Atmospheric Sciences	147	4.300
+Science Technology Other Topics	139	4.066
+Water Resources	112	3.276
+Microbiology	111	3.247
+Evolutionary Biology	101	2.954
+Agriculture	98	2.866
+Mineralogy	97	2.837
+Marine Freshwater Biology	96	2.808
+Paleontology	93	2.720
+Biodiversity Conservation	78	2.281
+Engineering	74	2.164
+Entomology	58	1.696
+Chemistry	56	1.638
+Biochemistry Molecular Biology	49	1.433
+Energy Fuels	45	1.316
+Genetics Heredity	41	1.199
+Tropical Medicine	38	1.111
+Showing 25 out of 106 entries
